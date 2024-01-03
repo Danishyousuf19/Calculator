@@ -22,9 +22,9 @@ body{
     display: flex;
     width: 90%;
     border: 1px solid #cad8f6;
-    margin: 2rem auto;
+    margin: 1rem auto;
     flex-direction: column;
-    padding-top: 9px;
+   
     padding-bottom: 9px;
 }
 input{
@@ -51,7 +51,7 @@ input:focus
 
 ul{
     display: flex;
-    margin: .3rem .7rem;
+    margin: .2rem .7rem;
     padding: 3px;
     border-radius: 12px;
     justify-content: space-around;
@@ -79,8 +79,7 @@ button:hover{
     box-shadow: 0px 0px 2px #f9fbfd, 1px 1px 2px #627cb2;
 }
 footer{
-    position: absolute;
-    bottom: 2%;
+   
     width: 100%;
     display: flex;
     justify-content: center;
